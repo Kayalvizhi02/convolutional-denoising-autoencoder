@@ -1,4 +1,7 @@
-# Convolutional Autoencoder for Image Denoising
+## EXP.NO : 7
+## DATE :
+
+# <p align="center"> Convolutional Autoencoder for Image Denoising </p>
 
 ## AIM:
 
@@ -33,8 +36,10 @@ Pass test data for validating manually.
 Plot the predictions for visualization.
 
 ## PROGRAM:
-```python
+#### Developed by : KAYALVIZHI M
+#### Register Number : 212220230024
 
+```python
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import utils
